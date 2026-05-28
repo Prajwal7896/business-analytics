@@ -1,32 +1,5 @@
 # 🛒 Enterprise E-Commerce Analytics & AI/ML Intelligence System
 
-## 🚀 Overview
-
-An enterprise-grade AI/ML analytics platform built on Indian E-Commerce customer behavior data using:
-
-* Python
-* Machine Learning
-* Business Intelligence
-* Predictive Analytics
-* Data Visualization
-* Customer Intelligence
-
-This project demonstrates production-level:
-
-* Data Science
-* AI/ML Engineering
-* Business Analytics
-* Executive Reporting
-* Revenue Intelligence
-
-Designed for:
-
-* ₹20 LPA – ₹1 Cr+ AI/ML roles
-* Recruiter showcase
-* GitHub portfolio
-* Enterprise analytics demonstration
-
----
 
 # 📌 Business Objective
 
@@ -78,35 +51,6 @@ Indian E-Commerce Customer Behavior and Purchase Dataset
 * xgboost
 * imbalanced-learn
 * opendatasets
-
----
-
-# 📁 Project Structure
-
-```bash
-analytics/
-│
-├── Ecommerce.csv
-├── cleaned_ecommerce_data.csv
-│
-├── analytics.py
-├── visualize.py
-├── ml.py
-│
-├── visualizations/
-│   ├── marketing_revenue.png
-│   ├── conversion_funnel.png
-│   ├── cart_abandonment.png
-│   └── ...
-│
-├── models/
-│   ├── trained_model.pkl
-│   ├── scaler.pkl
-│   └── feature_columns.pkl
-│
-├── requirements.txt
-└── README.md
-```
 
 ---
 
@@ -345,45 +289,6 @@ imbalanced-learn
 opendatasets
 ```
 
----
-
-# 🧠 Recruiter-Winning Skills Demonstrated
-
-✔ Enterprise Data Cleaning
-
-✔ Feature Engineering
-
-✔ Predictive Modeling
-
-✔ Executive Dashboards
-
-✔ Business Intelligence
-
-✔ Customer Analytics
-
-✔ Conversion Optimization
-
-✔ Ensemble Machine Learning
-
-✔ Revenue Analytics
-
-✔ Production-Level Python
-
----
-
-# 📌 Resume Bullet Points
-
-* Developed an enterprise AI-powered e-commerce analytics system using Python and Machine Learning.
-
-* Engineered advanced behavioral features improving predictive analytics performance.
-
-* Built executive dashboards for revenue optimization and customer intelligence.
-
-* Trained and optimized ensemble ML models for customer purchase prediction.
-
-* Implemented scalable preprocessing and analytics pipelines for production use.
-
----
 
 # 🎯 ATS Keywords
 
@@ -434,6 +339,3 @@ The system combines:
 * Business Intelligence
 * Strategic Analytics
 
-into a production-ready flagship AI/ML portfolio project.
-
----
